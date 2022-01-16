@@ -1,19 +1,19 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '9fc4005ace274416bf5d756d02c4700a',
+  rootNotionPageId: '009966ca3382444991d938e8f4c9d4dd',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
-  rootNotionSpaceId: "d438f9ea-c9ef-4898-ab16-bc9242467f4e",
+  rootNotionSpaceId: "390b1c2b-e28c-4e3c-a75d-c81591f003c1",
 
   // basic site info (required)
-  name: 'lizhimiao的博客',
-  domain: 'lizhimiao.com',
-  author: 'zhimiao li',
+  name: '朱乐欢的博客',
+  domain: 'https://www.notion.so/009966ca3382444991d938e8f4c9d4dd',
+  author: '朱乐欢',
 
   // open graph metadata (optional)
-  description: '笔记、博客和其他记录',
-  socialImageTitle: 'lizhimiao的博客',
+  description: '笔记、博客',
+  socialImageTitle: '朱乐欢的博客',
   socialImageSubtitle: '👋',
 
   // social usernames (optional)
